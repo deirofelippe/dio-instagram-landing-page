@@ -1,13 +1,4 @@
-# Projetos e anotações do digital innovation one
+# Instagram landing page
 
-## Sumario
-
-- [Instagram landing page](#instagram-landing-page)
-
-## Instagram landing page
-:arrow_up: [ir pro sumario](#sumario)
-
-[Repositório](https://github.com/felippedesouza/digital-innovation-one/tree/main/instagram-landing-page)
-
-![](./screenshot/instagram-landing-page-1.png)
-![](./screenshot/instagram-landing-page-2.png)
+![](./screenshot/img-1.png)
+![](./screenshot/img-2.png)
