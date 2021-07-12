@@ -1,4 +1,4 @@
 # Instagram landing page
 
-![](./screenshot/img-1.png)
-![](./screenshot/img-2.png)
+![](./screenshots/img-1.png)
+![](./screenshots/img-2.png)
